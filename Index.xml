@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say voice="woman" language="es-CO">
+    Atención. Se ha detectado una alerta GCX en el sistema. Verifique el cultivo inmediatamente.
+  </Say>
+</Response>
